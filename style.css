@@ -23,12 +23,11 @@ input:hover {
 }
 
 h1 {
-    font: 600 4vh "Raleway", sans-serif;
-    font-size: 3em;
+    font: 600 3em "Raleway", sans-serif;
     color: rgba(0, 0, 0, .6);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: .3em;
     width: 100%;
     text-shadow: 6px 6px 10px black;
 }
